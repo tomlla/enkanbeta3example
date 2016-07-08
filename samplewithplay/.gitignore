@@ -1,3 +1,8 @@
 /modules/
 /lib/
 /tmp/
+
+/.classpath
+/.project
+/.settings/
+/eclipse
