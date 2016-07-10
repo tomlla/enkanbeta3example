@@ -1,6 +1,8 @@
 /modules/
 /lib/
-/tmp/
+tmp/
+/test/
+/test-result
 
 /.classpath
 /.project
